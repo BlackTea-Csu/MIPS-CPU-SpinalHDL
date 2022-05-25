@@ -14,3 +14,9 @@ val thisClockDomain = ClockDomain(
 本人在实现过程中，经过指令仿真，发现《自己动手写CPU》书中存在一些疏漏，后续有时间再整理补充。
 
 SpinalHDL是个很好的框架，非常佩服Charles Papon的能力。感谢玉骐（微信号：FPGA_geek）对SpianlHDL的布道，实现过程中的模块间connect功能实现参考了他的代码。
+
+
+
+
+  Implementation of "Write YOUR Own CPU" with SpinalHDL content (only chapters 1-12)
+  SpinalHDL is a very good framework. I really admire Charles Papon's ability. Thanks to Yu Qi (wechat: FPGA_geek) for preaching to SpianlHDL, the realization of inter-module connect function in the implementation process referred to his code.
